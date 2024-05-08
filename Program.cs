@@ -21,6 +21,10 @@ app.UseHttpsRedirection();
 
 app.MapGet("/dividir", ([FromQuery(Name = "dividendo")] int dividendo, [FromQuery(Name = "divisor")] int divisor) =>
 {
+    if (divisor == 0)
+    {
+        return new Response(0, "Não é possível dividir por zero.");
+    }
     var result = (double)dividendo / (double)divisor;
 
     return new Response(result, "");

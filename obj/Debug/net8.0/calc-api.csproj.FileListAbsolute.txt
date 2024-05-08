@@ -31,3 +31,4 @@
 /Users/juliamartins/Desktop/Residencia - TCE/angular/calc-api/obj/Debug/net8.0/calc-api.pdb
 /Users/juliamartins/Desktop/Residencia - TCE/angular/calc-api/obj/Debug/net8.0/calc-api.genruntimeconfig.cache
 /Users/juliamartins/Desktop/Residencia - TCE/angular/calc-api/obj/Debug/net8.0/ref/calc-api.dll
+/Users/juliamartins/Desktop/Residencia - TCE/angular/calc-api/obj/Debug/net8.0/calc-api.sourcelink.json

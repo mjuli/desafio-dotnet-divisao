@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calc-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56889743ece7a0085bc95c8977f347012c47bdce")]
 [assembly: System.Reflection.AssemblyProductAttribute("calc-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calc-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
