@@ -6,7 +6,7 @@ Este é um pequeno projeto em C# que implementa uma calculadora de divisão simp
 
 - Realiza a divisão de dois números inteiros ou de ponto flutuante.
 - Lida com casos de divisão por zero.
-- Fornece uma interface de linha de comando simples para entrada de dados e exibição do resultado.
+- Fornece o endpoint `GET /dividir` para entrada de dados e exibição do resultado.
 
 ## Requisitos
 
